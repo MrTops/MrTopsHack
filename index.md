@@ -2,13 +2,11 @@
 
 **Intro**
 
-```
-Hello user,
+> Hello user,
 
-Thank you for using my website for hacks.
+> Thank you for using my website for hacks.
 
-- MrTops, Programmer
-```
+> - MrTops, Programmer
 
 ## Hacks
 
