@@ -6,7 +6,7 @@
 > 
 > Thank you for using my website for hacks.
 > 
-> - MrTops, Programmer
+> \- MrTops, Programmer
 
 ## Hacks
 
