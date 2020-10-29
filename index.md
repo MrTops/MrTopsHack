@@ -58,7 +58,7 @@ I did **not** make this, I minified and converted it.
 ```js
 for (var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i);
 ```
-*\`\`updated 10 - 23 - 2020 | removed auto answering, much smaller\`\`*
+*``updated 10 - 23 - 2020 | removed auto answering, much smaller``*
 
 this hack will start when the enter key is hit in the last step, you might want to refresh the page to get a new timer and do the steps fast to get the lowest time
 
